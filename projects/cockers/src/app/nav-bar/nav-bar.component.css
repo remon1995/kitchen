@@ -1,0 +1,28 @@
+img{
+width: 130px;
+height:50px;
+padding-right: 30px;
+}
+
+.container-fluid{
+  height: 20px;
+}
+
+.nav-link{
+ color:aliceblue;
+ font-weight: 400;
+ font-size: 20px;
+ opacity: .5;
+ transition: .5s;
+ -webkit-transition: .5s;
+ -moz-transition: .5s;
+ -ms-transition: .5s;
+ -o-transition: .5s;
+}
+
+.nav-link:hover{
+  letter-spacing: 2px;
+  opacity: 100%;
+  font-weight: 600;
+  font-size: 22px;
+}
